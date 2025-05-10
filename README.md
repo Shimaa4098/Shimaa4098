@@ -10,7 +10,7 @@ Currently learning **Angular** and diving deeper into modern JavaScript tools.
 - ⚡ Goal: To become a professional Front-End Developer and contribute to real-world projects
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/shimaa-mostafa-59bb1b318) *(ضيفي لينك حسابك هنا)*
+- [LinkedIn](www.linkedin.com/in/shimaa-mostafa-59bb1b318)
 - [My GitHub](https://github.com/Shimaa4098)
 
 ---
